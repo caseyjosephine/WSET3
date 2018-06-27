@@ -1,4 +1,4 @@
-#Sherry
+# Sherry
 
 - Critically, this is a wine style that is defined by maturation processes (although it is also geographically constrained to Jerez). 
 
