@@ -18,6 +18,7 @@ Three subregions:
 **Topography**: Steep slopes of the Douro. Traditionally planted on narrow, stone wall terraces called socalcos. Patamares allow tractor access, and interfaced vinha ao alto is used on low-angle slopes.
 
 **Grape Varieties**: many, mostly thick-skinned and high in tannin. Five major varieties:
+	
 	- Touriga Franca
 	- Tinta Roriz
 	- Tinta Barroca
@@ -27,8 +28,11 @@ Three subregions:
 ## In the Winery
 
 **Fermentation**: stopped by addition of grape spirit when wine reaches 5-9% ABV. This does not allow for much tannin or color extraction, so techniques are used to increase extraction.
+	
 	- Foot treading. Yes, really. Traditionally done with teams over three to four hours in shallow granite troughs called lagares. Most common for premium wines.
+	
 	- Autovinifiers. Method of automation in which sealed tanks allow rising CO2 pressure to eventually release valve that circulates mixture. Like a super aggressive automatic pump over.
+	
 	- Piston plungers and robotic lagares. Automation that seeks to emulate foot treading. Used for premium wine.
 
 **Fortification**: Done to between 19-22% ABV. The grape spirit used is called aguardente ( max 77% ABV). Due to low alcohol at fortification, the amount of spirit by volume is higher for Port than for Sherry.
