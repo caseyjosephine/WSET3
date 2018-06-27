@@ -28,6 +28,7 @@ Three subregions:
 ## In the Winery
 
 **Fermentation**: stopped by addition of grape spirit when wine reaches 5-9% ABV. This does not allow for much tannin or color extraction, so techniques are used to increase extraction.
+	
 	- Foot treading. Yes, really. Traditionally done with teams over three to four hours in shallow granite troughs called lagares. Most common for premium wines.
 	- Autovinifiers. Method of automation in which sealed tanks allow rising CO2 pressure to eventually release valve that circulates mixture. Like a super aggressive automatic pump over.
 	- Piston plungers and robotic lagares. Automation that seeks to emulate foot treading. Used for premium wine.
