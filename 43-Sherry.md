@@ -12,11 +12,11 @@
 
 ## Grape Varities
 
-**Palomino**: largest by planting. Low acid and neutral.
+- **Palomino**: largest by planting. Low acid and neutral.
 
-**Pedro Ximenez (PX)**: Neutral; thin skin allows it to raisinate and produce sweet Sherry. Mostly from Montilla-Morilles.
+- **Pedro Ximenez (PX)**: Neutral; thin skin allows it to raisinate and produce sweet Sherry. Mostly from Montilla-Morilles.
 
-**Muscat of Alexandria**: Also used to make sweet wines.
+- **Muscat of Alexandria**: Also used to make sweet wines.
 
 ## In the Winery 
 
