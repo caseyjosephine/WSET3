@@ -28,11 +28,8 @@ Three subregions:
 ## In the Winery
 
 **Fermentation**: stopped by addition of grape spirit when wine reaches 5-9% ABV. This does not allow for much tannin or color extraction, so techniques are used to increase extraction.
-	
 	- Foot treading. Yes, really. Traditionally done with teams over three to four hours in shallow granite troughs called lagares. Most common for premium wines.
-	
 	- Autovinifiers. Method of automation in which sealed tanks allow rising CO2 pressure to eventually release valve that circulates mixture. Like a super aggressive automatic pump over.
-	
 	- Piston plungers and robotic lagares. Automation that seeks to emulate foot treading. Used for premium wine.
 
 **Fortification**: Done to between 19-22% ABV. The grape spirit used is called aguardente ( max 77% ABV). Due to low alcohol at fortification, the amount of spirit by volume is higher for Port than for Sherry.
@@ -52,15 +49,23 @@ Most Ports are red, but rosé styles exist and white Port and tonics are popular
 ### Inexpensive Ports
 
 - Ruby: typically between one to three years and lacking in concentration, tannins, and complexity.
+
 - Tawny: too young, with brown color occurring due to winemakerly adulteration.
 
 ### Special Categories of Port
 
 - Reserve/Reserva: wines an official tasting panel determines are not undelicious. Must be aged in barrel for six or more years.
+  
 - Late Bottled Vintage: vintage wines that have been aged for four to six years prior to bottling. Generally fined and filtered; ready to drink upon release without further aging. Some are more like Vintage Port (unfiltered and suitable for aging).
+
 - Tawny with an Indication of Age: undergo oxidative maturation in pipes.
+	
 	- Average age of 10, 20, 30, or 40 years.
+	
 	- Year of bottling included on label.
+
 - Vintage: Flagship wine, which must be declared in the second year after harvest and bottled the next year. Some vintages are consensus, some not.
+	
 	- Single Quinta = single estate.
+		
 		- Some producers own multiple quintas.
